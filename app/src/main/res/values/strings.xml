@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Word Quiz Game</string>
+    <string name="app_title">Word Quiz Game</string>
+
+    <string name="play_game_label">Play Game</string>
+    <string name="high_score_label">High Score</string>
+    <string name="title_activity_game">WordQuizGame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_high_score">HighScoreActivity</string>
+</resources>
